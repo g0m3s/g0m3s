@@ -1,18 +1,42 @@
-[gif header](img1.gif)
+![gif header](img1.gif)
 
 # Olá :)
 
-<!--
-**g0m3s/g0m3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou fascinado por programação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
 
-Here are some ideas to get you started:
+## Algumas experiências legais que já tive
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fui finalista mundial no hackathon NASA Space Apps 2019. [:link:](https://www.dropbox.com/h?preview=Certificate+-+NASA+SPACE+APPS+-+2019+-1.pdf)
+
+3º lugar no hackathon Haking Rio Covid-19 (vertical empregabilidade). [:link:](https://www.dropbox.com/s/ybnh3uhewqvdyp5/Hacking%20help%20-%20Gabriel%20de%20Matos%20Gomes.pdf?dl=0)
+
+Já ministrei um minicurso sobre criação de Apps com o MIT AppInventor.
+
+Sou formado como técnico em eletrônica. :bulb:
+
+Atualmente estou cursando Eng. de Computação.
+
+## Tecnologias com que trabalho
+
+- Desenvolvimento mobile:
+  - React native
+  (JS, NodeJS)
+    - MySQL
+    - Sqlite
+    - Express
+    - knex
+  
+- Desenvolvimento Web:
+  - HTML
+  - CSS, SASS
+  - JS
+  - PHP
+  - MySQL
+  
+  Tenho conhecimento também na linguagem C e também já trabalhei com Arduino na aréa de robótica/eletrônica. :wrench:
+  
+## O que estou aprendendo atualmente :books:
+  
+  :iphone:  Estou focado no desenvolvimento de apps mobile (do front ao backend) com React Native.
+
+
