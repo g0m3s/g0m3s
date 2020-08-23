@@ -10,6 +10,8 @@ Fui finalista mundial no hackathon NASA Space Apps 2019. [:link:](https://www.dr
 
 3º lugar no hackathon Haking Rio Covid-19 (vertical empregabilidade). [:link:](https://www.dropbox.com/s/ybnh3uhewqvdyp5/Hacking%20help%20-%20Gabriel%20de%20Matos%20Gomes.pdf?dl=0)
 
+Participei do NASA Space Apps Covid 2020. [:link:](https://www.dropbox.com/h?preview=certificado+nasa+space+apps+covid.PNG)
+
 Já ministrei um minicurso sobre criação de Apps com o MIT AppInventor.
 
 Sou formado como técnico em eletrônica. :bulb:
