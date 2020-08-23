@@ -2,7 +2,11 @@
 
 # Olá :)
 
+```
+
 Sou fascinado por programação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+
+```
 
 ## Algumas experiências legais que já tive
 
