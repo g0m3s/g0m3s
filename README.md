@@ -1,4 +1,4 @@
-![gif header](img1.gif)
+[gif header](https://i.pinimg.com/originals/f5/5b/0f/f55b0f3e0d9b878ed9192b8358fd1480.gif)
 
 # Olá :)
 
@@ -16,7 +16,7 @@ Sou formado como técnico em eletrônica. :bulb:
 
 Atualmente estou cursando Eng. de Computação.
 
-## Tecnologias com que trabalho
+## Tecnologias com que trabalho :computer:
 
 - Desenvolvimento mobile:
   - React native
