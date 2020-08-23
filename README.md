@@ -26,7 +26,7 @@ Sou fascinado por programação desde criança e atualmente tenho me dedicado a 
 
 - Desenvolvimento mobile:
   - React native
-  (JS, NodeJS)
+  (JS/TS, NodeJS)
     - MySQL
     - Sqlite
     - Express
