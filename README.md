@@ -16,6 +16,8 @@ Sou fascinado por programação desde criança e atualmente tenho me dedicado a 
 
 - Participei do NASA Space Apps Covid 2020. [:link:](https://www.dropbox.com/s/4qy110hi6h7brsr/certificado%20nasa%20space%20apps%20covid.PNG?dl=0)
 
+- Bolsista Projeto Enjenhocas (Voltado a disseminção da robótica e programação). :zap:
+
 - Já ministrei um minicurso sobre criação de Apps com o MIT AppInventor. :smile:
 
 - Sou formado como técnico em eletrônica. :bulb:
@@ -44,5 +46,7 @@ Sou fascinado por programação desde criança e atualmente tenho me dedicado a 
 ## O que estou aprendendo atualmente :books:
   
   :iphone:  Estou focado no desenvolvimento de apps mobile (do front ao backend) com React Native.
+  
+### Dê uma olhada no meu perfil no linkedin:) [:link:](https://www.linkedin.com/in/gabriel-gomes-a0681a157/)
 
 
