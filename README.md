@@ -6,17 +6,17 @@ Sou fascinado por programação desde criança e atualmente tenho me dedicado a 
 
 ## Algumas experiências legais que já tive
 
-Fui finalista mundial no hackathon NASA Space Apps 2019. [:link:](https://www.dropbox.com/s/ycxocq1ah30posc/Certificate%20-%20NASA%20SPACE%20APPS%20-%202019%20-1.pdf?dl=0)
+- Fui finalista mundial no hackathon NASA Space Apps 2019. [:link:](https://www.dropbox.com/s/ycxocq1ah30posc/Certificate%20-%20NASA%20SPACE%20APPS%20-%202019%20-1.pdf?dl=0)
 
-3º lugar no hackathon Haking Rio Covid-19 (vertical empregabilidade). [:link:](https://www.dropbox.com/s/ybnh3uhewqvdyp5/Hacking%20help%20-%20Gabriel%20de%20Matos%20Gomes.pdf?dl=0)
+- 3º lugar no hackathon Haking Rio Covid-19 (vertical empregabilidade). [:link:](https://www.dropbox.com/s/ybnh3uhewqvdyp5/Hacking%20help%20-%20Gabriel%20de%20Matos%20Gomes.pdf?dl=0)
 
-Participei do NASA Space Apps Covid 2020. [:link:](https://www.dropbox.com/s/4qy110hi6h7brsr/certificado%20nasa%20space%20apps%20covid.PNG?dl=0)
+- Participei do NASA Space Apps Covid 2020. [:link:](https://www.dropbox.com/s/4qy110hi6h7brsr/certificado%20nasa%20space%20apps%20covid.PNG?dl=0)
 
-Já ministrei um minicurso sobre criação de Apps com o MIT AppInventor.
+- Já ministrei um minicurso sobre criação de Apps com o MIT AppInventor. :smile:
 
-Sou formado como técnico em eletrônica. :bulb:
+- Sou formado como técnico em eletrônica. :bulb:
 
-Atualmente estou cursando Eng. de Computação.
+- Atualmente estou cursando Eng. de Computação.:alien:
 
 ## Tecnologias com que trabalho :computer:
 
