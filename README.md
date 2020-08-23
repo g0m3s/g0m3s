@@ -1,4 +1,6 @@
-### Hi there 👋
+[gif header](img1.gif)
+
+# Olá :)
 
 <!--
 **g0m3s/g0m3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
