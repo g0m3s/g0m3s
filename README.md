@@ -16,7 +16,7 @@ Sou fascinado por programação desde criança e atualmente tenho me dedicado a 
 
 - Participei do NASA Space Apps Covid 2020. [:link:](https://www.dropbox.com/s/4qy110hi6h7brsr/certificado%20nasa%20space%20apps%20covid.PNG?dl=0)
 
-- Bolsista Projeto Engenhocas (Voltado a disseminção da robótica e programação). :zap:
+- Bolsista Projeto Engenhocas (Voltado a disseminação da robótica e programação). :zap:
 
 - Já ministrei um minicurso sobre criação de Apps com o MIT AppInventor. :smile:
 
