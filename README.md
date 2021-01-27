@@ -12,6 +12,8 @@ Sou fascinado por programação desde criança e atualmente tenho me dedicado a 
 
 - Fui finalista mundial no hackathon NASA Space Apps 2019. [:link:](https://www.dropbox.com/s/ycxocq1ah30posc/Certificate%20-%20NASA%20SPACE%20APPS%20-%202019%20-1.pdf?dl=0)
 
+- Atualmente trabalho como Assessor de projetos na Aurea Soluções e Projetos. 👾
+
 - Engenheiro de computação estagiário pela UENF 🚀
 
 - 3º lugar no hackathon Hacking Rio Covid-19 (vertical empregabilidade). [:link:](https://www.dropbox.com/s/ybnh3uhewqvdyp5/Hacking%20help%20-%20Gabriel%20de%20Matos%20Gomes.pdf?dl=0)
