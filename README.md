@@ -26,7 +26,7 @@ Sou fascinado por programação desde criança e atualmente tenho me dedicado a 
 
 - Sou formado como técnico em eletrônica. :bulb:
 
-- Atualmente estou cursando Eng. de Computação.:alien:
+- Estou cursando Eng. de Computação.:alien:
 
 ## Tecnologias com que trabalho :computer:
 
