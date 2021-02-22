@@ -48,6 +48,7 @@ Sou fascinado por programação desde criança e atualmente tenho me dedicado a 
   
   :iphone:  Estou focado no desenvolvimento de apps mobile (do front ao backend) com React Native.
   
-### Dê uma olhada no meu perfil no linkedin:) [:link:](https://www.linkedin.com/in/gabriel-gomes-a0681a157/)
+## Dê uma olhada no meu perfil no linkedin:) [:link:](https://www.linkedin.com/in/gabriel-gomes-a0681a157/)
 
-
+## Meus dados no Github
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0m3s&show_icons=true&theme=radical)
