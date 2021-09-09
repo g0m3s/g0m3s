@@ -10,9 +10,11 @@ Sou fascinado por programação desde criança e atualmente tenho me dedicado a 
 
 ## Algumas experiências legais que já tive
 
+- Trabalho como desenvolvedor front-end na Mutual
+
 - Fui finalista mundial no hackathon NASA Space Apps 2019. [:link:](https://www.dropbox.com/s/ycxocq1ah30posc/Certificate%20-%20NASA%20SPACE%20APPS%20-%202019%20-1.pdf?dl=0)
 
-- Atualmente trabalho como Assessor de projetos e desenvolvedor na Aurea Soluções e Projetos. 👾
+- Trabalhei como gerente de projetos e desenvolvedor na Aurea Soluções e Projetos. 👾
 
 - Engenheiro de computação estagiário pela UENF 🚀
 
@@ -30,12 +32,7 @@ Sou fascinado por programação desde criança e atualmente tenho me dedicado a 
 
 ## Tecnologias com que trabalho :computer:
 
-- Front-end:
-  - React native
-  - React
-  - HTML, CSS, SASS
-
-- Back-end:
+  - React, React native
   - NodeJS (JS/TS)
   - Firebase
   - MongoDB
@@ -43,7 +40,8 @@ Sou fascinado por programação desde criança e atualmente tenho me dedicado a 
   
   Tenho conhecimento também na linguagem C e também já trabalhei com Arduino na aréa de robótica/eletrônica. :wrench:
   
-## Dê uma olhada no meu perfil no linkedin:) [:link:](https://www.linkedin.com/in/gabriel-gomes-a0681a157/)
+## Dê uma olhada aqui se quiser saber mais um pouco:) [:link:](https://www.gom3s.com/)
+## Meu perfil no linkedin: [:link:](https://www.linkedin.com/in/gabriel-gomes-a0681a157/)
 
 ## Meus dados no Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0m3s&show_icons=true&theme=radical)
