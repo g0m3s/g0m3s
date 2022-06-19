@@ -4,7 +4,8 @@
 
 ```
 
-Sou fascinado por programação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+Sou um completo apaixonado por programação desde sempre. Comecei minha jornada com tecnologia ainda na minha pré-adolescência e desde então não parei. Impactar vidas através da tecnologia é minha paixão. Tenho perfil proativo e de liderança e em todas as oportunidades que tive me dediquei sempre ao máximo para que tudo ocorresse bem. Acredito num ambiente de trabalho colaborativo onde todos podem ter voz para ajudar; afinal, "se quer ir rápido, vá sozinho. Se quer ir longe, vá em grupo". Trabalho muito bem em grupo e com outras áreas, tendo comunicação como um ponto forte.
+
 
 ```
 
@@ -32,11 +33,15 @@ Sou fascinado por programação desde criança e atualmente tenho me dedicado a 
 
 ## Tecnologias com que trabalho :computer:
 
-  - React, React native
-  - NodeJS (JS/TS)
+  - React
+  - React native
+  - JS/TS
   - Firebase
-  - MongoDB
-  - MySQL
+  - Cypress
+  - Storybook
+  - Redux
+  - Material-ui
+  - 
   
   Tenho conhecimento também na linguagem C e também já trabalhei com Arduino na aréa de robótica/eletrônica. :wrench:
   
